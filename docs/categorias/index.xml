@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categorias on Bianca Lessa</title>
-    <link>https://example.com/categorias/</link>
+    <link>https://israelbgf.github.io/biancalessa/categorias/</link>
     <description>Recent content in Categorias on Bianca Lessa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2017 | Bianca Lessa | ♥</copyright>
     
-	<atom:link href="https://example.com/categorias/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://israelbgf.github.io/biancalessa/categorias/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

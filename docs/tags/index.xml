@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Bianca Lessa</title>
-    <link>https://example.com/tags/</link>
+    <link>https://israelbgf.github.io/biancalessa/tags/</link>
     <description>Recent content in Tags on Bianca Lessa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2017 | Bianca Lessa | ♥</copyright>
     <lastBuildDate>Thu, 14 Dec 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://israelbgf.github.io/biancalessa/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Filmes</title>
-      <link>https://example.com/tags/filmes/</link>
+      <link>https://israelbgf.github.io/biancalessa/tags/filmes/</link>
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/filmes/</guid>
+      <guid>https://israelbgf.github.io/biancalessa/tags/filmes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Vegetarianismo</title>
-      <link>https://example.com/tags/vegetarianismo/</link>
+      <link>https://israelbgf.github.io/biancalessa/tags/vegetarianismo/</link>
       <pubDate>Tue, 19 Dec 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/vegetarianismo/</guid>
+      <guid>https://israelbgf.github.io/biancalessa/tags/vegetarianismo/</guid>
       <description></description>
     </item>
     
