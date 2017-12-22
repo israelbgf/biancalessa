@@ -23,9 +23,9 @@ style = "github"
 languages = ["go", "dockerfile"]
 
 [[params.social]]
-url = "https://gitlab.com/mgjohansen"
+url = "https://www.facebook.com/bianca.lessa.902"
 fa_icon = "fa-facebook"
 
 [[params.social]]
-url = "https://twitter.com/mgjohansen"
+url = "https://www.instagram.com/biancalessa_/"
 fa_icon = "fa-instagram"
