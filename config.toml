@@ -6,6 +6,7 @@ theme = "Hucore"
 copyright = "&copy; 2017 | Bianca Lessa | ♥"
 disqusShortname = "shortname"
 googleAnalytics = "trackingcode"
+publishDir = "docs"
 
 [taxonomies]
 tag = "tags"
