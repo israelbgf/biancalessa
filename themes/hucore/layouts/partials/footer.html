@@ -1,0 +1,30 @@
+<section class="section">
+    <div class="container has-text-centered">
+        <p>{{ .Site.Copyright | safeHTML }}</p>
+    </div>
+    <div class="contacts">
+        {{ range .Site.Params.social }}
+        <a class="level-item" style="color: black;" href="{{ .url }}" target="_blank">
+                <span class="icon">
+                  <i class="fa {{ .fa_icon }}"></i>
+                </span>
+        </a>
+        {{ end }}
+    </div>
+
+</section>
+
+
+
+{{ if .Site.Params.highlight.theme }}
+<link rel="stylesheet"
+      href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.11.0/styles/{{ .Site.Params.highlight.theme }}.min.css"/>
+{{ end }}
+{{ range .Site.Params.highlight.languages }}
+<script type="text/javascript"
+        src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.11.0/languages/{{ . }}.min.js"></script>
+{{ end }}
+<script>hljs.initHighlightingOnLoad();</script>
+{{ if .Site.GoogleAnalytics }}
+{{ template "_internal/google_analytics_async.html" . }}
+{{ end }}

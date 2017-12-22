@@ -1,0 +1,30 @@
+baseurl = "https://example.com"
+languageCode = "pt-br"
+title = "Bianca Lessa"
+subtitle = "Shu"
+theme = "Hucore"
+copyright = "&copy; 2017 | Bianca Lessa | ♥"
+disqusShortname = "shortname"
+googleAnalytics = "trackingcode"
+
+[taxonomies]
+tag = "tags"
+category = "categorias"
+
+[params]
+description = ""
+keywords = []
+sharingicons = true
+displayauthor = false
+
+[params.highlight]
+style = "github"
+languages = ["go", "dockerfile"]
+
+[[params.social]]
+url = "https://gitlab.com/mgjohansen"
+fa_icon = "fa-facebook"
+
+[[params.social]]
+url = "https://twitter.com/mgjohansen"
+fa_icon = "fa-instagram"

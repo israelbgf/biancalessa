@@ -1,0 +1,43 @@
+body {
+    background-color: pink;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.blog-title {
+    font-size: 48px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.blog-subtitle {
+    font-size: 22px;
+    text-align: center;
+}
+
+.blog-slogan {
+    font-size: 20px;
+    margin-top: 5px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.contacts {
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.avatar {
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 10px;
+
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border-radius: 50%;
+
+    -webkit-box-shadow: 0 0 0 3px #fff, 0 0 0 4px #999, 0 2px 5px 4px rgba(0, 0, 0, .2);
+    -moz-box-shadow: 0 0 0 3px #fff, 0 0 0 4px #999, 0 2px 5px 4px rgba(0, 0, 0, .2);
+    box-shadow: 0 0 0 3px #fff, 0 0 0 4px #999, 0 2px 5px 4px rgba(0, 0, 0, .2);
+}
