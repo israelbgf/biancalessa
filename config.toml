@@ -1,10 +1,9 @@
 baseurl = "http://www.biancalessa.com.br"
 languageCode = "pt-br"
 title = "Bianca Lessa"
-subtitle = "Shu"
 theme = "Hucore"
 copyright = "&copy; 2017 | Bianca Lessa | ♥"
-disqusShortname = "shortname"
+disqusShortname = "biancalessa"
 googleAnalytics = "trackingcode"
 publishDir = "docs"
 
@@ -17,10 +16,6 @@ description = ""
 keywords = []
 sharingicons = true
 displayauthor = false
-
-[params.highlight]
-style = "github"
-languages = ["go", "dockerfile"]
 
 [[params.social]]
 url = "https://www.facebook.com/bianca.lessa.902"
