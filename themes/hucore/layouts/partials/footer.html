@@ -1,6 +1,6 @@
 <section class="section">
     <div class="container has-text-centered">
-        <p>{{ .Site.Copyright | safeHTML }}</p>
+        <a href="{{ .Site.BaseURL }}" style="color: inherit;"><p>{{ .Site.Copyright | safeHTML }}</p></a>
     </div>
     <div class="contacts">
         {{ range .Site.Params.social }}
