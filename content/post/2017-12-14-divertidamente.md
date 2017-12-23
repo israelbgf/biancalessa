@@ -19,4 +19,4 @@ Recomendo a animação para todas as pessoas de todas as idades, pois ela, de ma
 
 Hoje, se eu ainda sou “dominada” em determinadas situações por alguma destas emoções, sem dúvidas que é pela Tristeza… Ainda bem que ela aprende a trabalhar de mãos dadas com a Alegria! E assim seguimos, tentando manter cada uma com a sua função e seu momento de “brilhar”.
 
-{{< figure src="/biancalessa/img/img2.jpg" width="500" >}}
+{{< figure src="/img/img2.jpg" width="500" >}}

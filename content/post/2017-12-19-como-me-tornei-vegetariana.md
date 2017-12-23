@@ -18,4 +18,4 @@ Fique de olho por aqui, porque pretendo compartilhar várias experiências que e
 
 Por hora deixo a indicação de dois documentários incríveis, disponíveis na netflix, que são ótimos para introduzir o assunto: Cowspiracy e Live and Let Live (Viva e deixe viver). Deixo aqui também uma indicação de livro (que estou lendo no momento): Libertação Animal, do Peter Singer.
 
-{{< figure src="/biancalessa/img/img.jpg" width="500" >}}
+{{< figure src="/img/img.jpg" width="500" >}}
