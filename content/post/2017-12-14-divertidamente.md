@@ -1,5 +1,5 @@
 ---
-title: "O que eu me senti assistindo divertidamente? (Com spoilers)"
+title: "O que eu senti assistindo divertidamente? (Com spoilers)"
 linktitle: Migrating from Jekyll
 date: "2017-12-14"
 tags: ["filmes"]
