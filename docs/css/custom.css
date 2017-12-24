@@ -9,6 +9,14 @@ body {
   }
 }
 
+@media only screen and (max-width: 500px) {
+    body {
+        background-color: pink;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
 .blog-title {
     font-size: 48px;
     text-align: center;
