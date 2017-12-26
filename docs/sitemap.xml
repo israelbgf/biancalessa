@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.biancalessa.com.br/post/2017-12-26-metas-2018/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.biancalessa.com.br/post/2017-12-19-como-me-tornei-vegetariana/</loc>
     <lastmod>2017-12-19T00:00:00+00:00</lastmod>
   </url>
@@ -14,7 +19,7 @@
   
   <url>
     <loc>http://www.biancalessa.com.br/</loc>
-    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -31,7 +36,13 @@
   
   <url>
     <loc>http://www.biancalessa.com.br/post/</loc>
-    <lastmod>2017-12-19T00:00:00+00:00</lastmod>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.biancalessa.com.br/tags/reflex%C3%B5es/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -44,6 +55,12 @@
   <url>
     <loc>http://www.biancalessa.com.br/tags/vegetarianismo/</loc>
     <lastmod>2017-12-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.biancalessa.com.br/tags/vida-cotidiana/</loc>
+    <lastmod>2017-12-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
