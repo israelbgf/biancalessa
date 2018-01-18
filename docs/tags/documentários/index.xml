@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Filmes on Bianca Lessa</title>
-    <link>http://www.biancalessa.com.br/tags/filmes/</link>
-    <description>Recent content in Filmes on Bianca Lessa</description>
+    <title>Documentários on Bianca Lessa</title>
+    <link>http://www.biancalessa.com.br/tags/document%C3%A1rios/</link>
+    <description>Recent content in Documentários on Bianca Lessa</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2017 | Bianca Lessa | ♥</copyright>
     <lastBuildDate>Thu, 18 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://www.biancalessa.com.br/tags/filmes/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.biancalessa.com.br/tags/document%C3%A1rios/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <guid>http://www.biancalessa.com.br/post/2018-01-18-live-and-let-live/</guid>
       <description>Live and Let Live (&amp;ldquo;Viva e deixe viver&amp;rdquo; em português) é um documentário de 2013, dirigido por Marc Pierschel. O filme conta com a participação de grandes especialistas, analisa a relação do homem com os animais, comenta um pouquinho sobre a origem do veganismo e nos faz refletir a respeito deste movimento que vem ganhando cada vez mais força.
 O documentário relata a história de algumas pessoas que se tornaram veganas, como Aaron Adams: Chef, ex dono de um estabelecimento que possuía diversos pratos com carne no cardápio e que costumava abater animais na cozinha.</description>
-    </item>
-    
-    <item>
-      <title>O que eu senti assistindo Divertida Mente? (Com spoilers)</title>
-      <link>http://www.biancalessa.com.br/post/2017-12-14-divertidamente/</link>
-      <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://www.biancalessa.com.br/post/2017-12-14-divertidamente/</guid>
-      <description>Semana passada eu assisti o filme “Divertida Mente”. Na faculdade (cursei psicologia por 2 anos) ele era utilizado como referência em algumas matérias, mas eu nunca havia parado para assistir.
-Divertida Mente é um filme bastante interessante, não só pela arte excelente, mas, principalmente, pelo conteúdo. É muito legal a maneira com que eles levaram situações corriqueiras na vida de qualquer pessoa para dentro de uma animação com linguagem infantil.</description>
     </item>
     
   </channel>
