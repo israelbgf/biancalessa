@@ -9,6 +9,27 @@ body {
   }
 }
 
+@media only screen and (min-width: 501px){
+  body {
+      padding-left: 100px;
+      padding-right: 100px;
+  }
+
+  .imagem-lateral {
+      float: right;
+      margin-left: 20px
+  }
+
+  .espaco-branco-100-pc {
+      height: 100px;
+  }
+
+  .espaco-branco-50-pc {
+      height: 50px;
+  }
+
+}
+
 @media only screen and (max-width: 500px) {
     body {
         background-color: pink;
