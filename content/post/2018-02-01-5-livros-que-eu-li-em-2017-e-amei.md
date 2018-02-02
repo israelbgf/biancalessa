@@ -60,4 +60,4 @@ Quando iniciei a leitura achei que não tiraria nada de relevante dele e que nã
 
 {{< figure class="espaco-branco-50-pc">}}
 
-Estes foram apenas 5 (na verdade 6, já que no numero 3 coloquei duas indicações) dos livros que eu li em 2017 (no total foram em torno de 12) e que recomendo muito!
+Estes foram apenas 5 (na verdade 6, já que no numero 3 coloquei duas indicações) dos livros que eu li em 2017 (no total foram 12, 1 por mês) e que recomendo muito! Aceito dicas de leituras :blush:

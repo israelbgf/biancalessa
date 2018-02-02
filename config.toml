@@ -6,7 +6,7 @@ copyright = "&copy; 2017 | Bianca Lessa | ♥"
 disqusShortname = "www-biancalessa-com-br"
 googleAnalytics = "trackingcode"
 publishDir = "docs"
-
+enableEmoji = true
 [taxonomies]
 tag = "tags"
 category = "categorias"
