@@ -3,7 +3,7 @@ title: Por que optar pela adoção de animais?
 date: "2018-02-19"
 tags: ["adoção", "pets", "gatos", "cachorros"]
 ---
-Alguns dias atrás fez 2 anos desde que adotamos o Steam, um gatinho cheio de energia, que chegou para completar a nossa família. Eu já comentei sobre como a adoção dele influenciou na minha decisão de parar de comer carne em um outro post, que você pode ler [aqui]({{< ref "post/2017-12-19-como-me-tornei-vegetariana.md" >}}).
+Este mês fez 2 anos desde que adotamos o Steam, um gatinho cheio de energia, que chegou para completar a nossa família. Eu já comentei sobre como a adoção dele influenciou na minha decisão de parar de comer carne em um outro post, que você pode ler [aqui]({{< ref "post/2017-12-19-como-me-tornei-vegetariana.md" >}}).
 
 Com certeza você já ouviu a frase: “não compre, adote” ou se deparou com algum animal nas estradas. No Brasil existem milhares de cães e gatos abandonados nas ruas.
 Infelizmente esse número ainda é excessivo, pois grande parte da população prefere comprar um cachorrinho de raça pura ao invés de dar uma chance para o animalzinho de rua (além da falta de castração).
@@ -23,7 +23,7 @@ Por que não comprar? Tenho uma lista enorme de motivos para não participar des
 
 Se mesmo após pensar e repensar, você achar que a única solução é a compra, tenha em mente que animais de raça precisam de uma série de cuidados extras, pois para chegar na estética perfeita e que agrade aos olhos do consumidor, é necessário cruzar entre a mesma raça (as vezes até entre família), aumentando as chances de doenças e problemas hereditários.
 
-E, principalmente, encha o criador de perguntas!
+Por último: encha o criador de perguntas!
 
 -> Como ele seleciona as cruzas?
 
@@ -33,7 +33,7 @@ E, principalmente, encha o criador de perguntas!
 Conheça o local, peça para ver as matrizes, como elas são alimentadas, como são tratadas. Não economize nos questionamentos.
 Pois, por conta desta preferência por raças específicas, acabam existindo muitos canis clandestinos, que não dão nenhum tipo de assistência ao animal, não alimentam direito, deixam em meio a sujeira, muitas vezes agridem fisicamente e forçam cruzas repetidas. Como nesses casos os filhotes são vendidos em feiras clandestinas, pet shops ou anúncios de internet, ninguém fica sabendo dos maus tratos e o "criador" ainda sai com uma alta taxa de lucro, pois não investe em tratamentos veterinários, alimentação de qualidade, etc. Ou seja: na hora de comprar, todo cuidado é pouco!
 
-Acho que já ficou bem claro o quão contra eu sou ao comércio de animais domésticos, porque para mim vida não tem preço e amor não se compra. Mas antes um comércio bem fiscalizado do que milhares de clandestinos, então faça sua parte de consumidor e saiba tudo sobre o produto (não me acostumo a chamar os animais assim, porém, uma vez que estão no mercado para atender um desejo ou necessidade, é o que eles são) e a origem dele. 
+Acho que já ficou bem claro o quão contra eu sou ao comércio de animais domésticos, porque para mim vida não tem preço e amor não se compra. Mas antes um comércio bem fiscalizado do que milhares de clandestinos, então faça sua parte de consumidor e saiba tudo sobre o produto (não me acostumo a chamar os animais assim, porém, uma vez que estão no mercado para atender um desejo ou necessidade, é o que eles são) e a origem dele.
 
 Para quem é de Joinville, vou deixar o link das redes sociais do Guapecas aqui embaixo:
 https://www.facebook.com/guapecasjoinville/
