@@ -7,6 +7,10 @@ disqusShortname = "www-biancalessa-com-br"
 googleAnalytics = "trackingcode"
 publishDir = "docs"
 enableEmoji = true
+
+[blackfriday]
+hrefTargetBlank = true
+
 [taxonomies]
 tag = "tags"
 category = "categorias"

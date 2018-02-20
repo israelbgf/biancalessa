@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 | Bianca Lessa | ♥</copyright>
-    <lastBuildDate>Thu, 18 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.biancalessa.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adoção</title>
+      <link>http://www.biancalessa.com.br/tags/ado%C3%A7%C3%A3o/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.biancalessa.com.br/tags/ado%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cachorros</title>
+      <link>http://www.biancalessa.com.br/tags/cachorros/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.biancalessa.com.br/tags/cachorros/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Documentários</title>
@@ -31,6 +49,15 @@
     </item>
     
     <item>
+      <title>Gatos</title>
+      <link>http://www.biancalessa.com.br/tags/gatos/</link>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.biancalessa.com.br/tags/gatos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Livros</title>
       <link>http://www.biancalessa.com.br/tags/livros/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
@@ -42,7 +69,7 @@
     <item>
       <title>Pets</title>
       <link>http://www.biancalessa.com.br/tags/pets/</link>
-      <pubDate>Mon, 08 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.biancalessa.com.br/tags/pets/</guid>
       <description></description>
