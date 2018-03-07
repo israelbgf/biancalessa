@@ -28,7 +28,7 @@ Já ouvi pessoas dizendo (e eu mesma já fui uma delas) que não possuem muito t
 
 Caso tenha que ler para faculdade (ou por outros motivos profissionais), precisará de um pouco mais de disciplina, mas as metas de tempo funcionam muito bem - pelo menos na minha experiência.
 
-**3 -  Começar com temas que te chamem atenção**
+**3 -  Comece com temas que te chamem atenção**
 
 Quer ler mais para usufruir de todos os benefícios da leitura? Ou simplesmente por achar que está dando atenção demais para as redes sociais? Comece com livros que possuam temas que te chamem atenção: romance, terror, suspense, ficção científica. Não há problema algum em passar um pouquinho do seu dia lendo uma linda história de amor ou sofrendo as angústias de um tenso enredo policial.
 Acho que o principal ponto é: **sem culpa!** A leitura não precisa ser de um livro de 600 páginas sobre neurociência para ser positiva (mas se você tiver interesse no tema: vai fundo! só agregará ainda mais conhecimento :blush:)
