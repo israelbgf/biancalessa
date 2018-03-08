@@ -8,7 +8,7 @@ A leitura faz parte do meu dia a dia há anos, desde muito nova tenho sempre um 
 
 Os livros nos trazem inúmeros benefícios: seja para aumentar o conhecimento, exercitar a criatividade ou até mesmo para relaxar, eles são ótimas companhias.  
 
-No entanto, algumas pessoas encontram dificuldades na hora de transformar esse hobby em um hábito, pois com a correria do dia a dia, às vezes nos rendemos à preguiça (principalmente se for leitura de faculdade, curso ou trabalho)’ e o celular acaba ganhando mais atenção do que deveria. Porém, com organização, é possível fazer desta uma atividade diária - e vale muito a pena!
+No entanto, algumas pessoas encontram dificuldades na hora de transformar esse hobby em um hábito, pois com a correria do dia a dia, às vezes nos rendemos à preguiça (principalmente se for leitura de faculdade, curso ou trabalho) e o celular acaba ganhando mais atenção do que deveria. Porém, com organização, é possível fazer desta uma atividade diária - e vale muito a pena!
 
 Pensando nisso, separei algumas dicas para você que quer fazer da leitura um hábito cotidiano:
 
