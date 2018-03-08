@@ -31,7 +31,7 @@ Caso tenha que ler para faculdade (ou por outros motivos profissionais), precisa
 **3 -  Comece com temas que te chamem atenção**
 
 Quer ler mais para usufruir de todos os benefícios da leitura? Ou simplesmente por achar que está dando atenção demais para as redes sociais? Comece com livros que possuam temas que te chamem atenção: romance, terror, suspense, ficção científica. Não há problema algum em passar um pouquinho do seu dia lendo uma linda história de amor ou sofrendo as angústias de um tenso enredo policial.
-Acho que o principal ponto é: **sem culpa!** A leitura não precisa ser de um livro de 600 páginas sobre neurociência para ser positiva (mas se você tiver interesse no tema: vai fundo! só agregará ainda mais conhecimento :blush:)
+O principal ponto é: **sem culpa!** A leitura não precisa ser de um livro de 600 páginas sobre neurociência para ser positiva (mas se você tiver interesse no tema: vai fundo! só agregará ainda mais conhecimento :blush:)
 
 Isso é muito importante, pois às vezes podemos pensar que lendo um livro de ficção estamos perdendo tempo, quando, na verdade, estamos exercitando nossa criatividade, aprendendo vocabulário e relaxando a mente.
 
