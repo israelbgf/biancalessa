@@ -16,11 +16,11 @@ Pensando nisso, separei algumas dicas para você que quer fazer da leitura um h�
 
 Confesso que sempre tive coração de colecionadora, ainda tenho livros não lidos nas minhas prateleiras. Era bastante resistente em relação ao kindle, achava impossível me adaptar. Porém, posso garantir que foi a melhor escolha que fiz!
 
-Várias pessoas não conseguem ler com frequência, pois ficam muito tempo fora de casa e dependendo do livro é inviável carregá-lo. Se esse é o seu caso, o kindle pode ser uma boa solução! Por caber na bolsa e ser leve, ele é extremamente prático. Desde que comprei o meu passei a ler muito mais, pois consigo levá-lo para qualquer salinha de espera que eu tenha que passar ao longo do dia. Sem contar que, dependendo de como foi meu dia, até mesmo antes de dormir ele é a melhor escolha (nem sempre estou com o braço forte o suficiente para segurar os "camalhaços" que leio rs).
+Várias pessoas não conseguem ler com frequência, pois ficam muito tempo fora de casa e dependendo do livro é inviável carregá-lo. Se esse é o seu caso, o kindle pode ser uma boa solução! Por caber na bolsa e ser leve, ele é extremamente prático. Desde que comprei o meu passei a ler muito mais, pois consigo levá-lo para qualquer salinha de espera que eu tenha que passar ao longo do dia. Sem contar que às vezes até mesmo antes de dormir ele é a melhor escolha (nem sempre estou com o braço forte o suficiente para segurar os "camalhaços" que leio rs).
 
-E agora estudando a distância, é "uma mão na roda". Coloco os principais PDFs e/ou livros ali e consigo ler, destacar e fazer anotações.
+E agora que faço faculdade EAD é "uma mão na roda": Coloco os principais PDFs e/ou livros ali e consigo ler, destacar, fazer anotações. Facilitou muito a minha vida.
 
-Propaganda forte, né? Mas é porque gosto muito! Então no meu caso foi um investimento que valeu a pena! Gosto muito dos livros físicos também, mas se quisermos ter uma rotina de leitura na loucura dos dias de hoje: praticidade é tudo!
+Propaganda forte, né? Mas é porque gosto muito! Então no meu caso foi um investimento que valeu a pena! Gosto muito dos livros físicos também, porém se quisermos ter uma rotina de leitura na loucura dos dias de hoje: praticidade é tudo!
 
 **2 - Separar um tempinho todos os dias**
 
