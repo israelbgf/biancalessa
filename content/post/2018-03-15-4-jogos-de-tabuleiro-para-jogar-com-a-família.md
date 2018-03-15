@@ -13,7 +13,7 @@ Pensando em como nos divertimos, resolvi listar aqui alguns dos jogos que mais f
 {{< figure src="/img/pocaojpg.jpg" width="400" >}}
 Foto da editora
 
-Esse jogo nós demos de presente para a minha irmã e é o queridinho da casa: todo mundo adora! Quando compramos eu nunca havia jogado, apenas assistido à um vídeo de explicação, e ele superou todas as minhas expectativas.
+Esse jogo nós demos de presente para a minha irmã e é o queridinho da casa: todo mundo adora! Quando compramos eu nunca havia jogado, apenas assistido um vídeo de explicação, e ele superou todas as minhas expectativas.
 
 Caso queira entender como o jogo funciona clique [aqui](https://www.ludopedia.com.br/jogo/potion-explosion).
 
