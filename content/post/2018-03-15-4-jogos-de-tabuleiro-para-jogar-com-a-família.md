@@ -15,7 +15,7 @@ Foto da editora
 
 Esse jogo nós demos de presente para a minha irmã e é o queridinho da casa: todo mundo adora! Quando compramos eu nunca havia jogado, apenas assistido um vídeo de explicação, e ele superou todas as minhas expectativas.
 
-Caso queira entender como funciona clique [aqui](https://www.ludopedia.com.br/jogo/potion-explosion).
+Caso queira entender como funciona, clique [aqui](https://www.ludopedia.com.br/jogo/potion-explosion).
 
 As regras são simples, ele é bonito, dá para ter interação - vai depender dos jogadores - e é rápido! Para mim só não é o "casual perfeito", porque demanda uma atenção maior para as poções (já que cada uma delas possui um efeito diferente), algo que pode complicar nas primeiras jogadas - uma complicação bem leve. Digo isso, pois minha mãe demorou para decorar os efeitos de cada uma, o que a deixou bem insegura no início (agora ela tem a maior pontuação já feita da família). Sem contar que não é o melhor para ficar carregando para os lugares - coisa que a gente faz muito com o Splendor (próximo da lista) - por causa das 80 bolinhas de gude: dependendo do local, fica fácil perder.
 
@@ -40,7 +40,7 @@ Foto da editora, pois não tinha nenhuma aqui.
 
 Outro jogo com regras simples e rápido. Caso queira entender melhor, clique [aqui] (https://www.ludopedia.com.br/jogo/splendor).
 
-A primeira vez que joguei, estava com um grupo em que todos já haviam jogado. Me falaram que o objetivo era ter a maior pontuação, então fui comprando o máximo de cartas possíveis que me davam pontos, sem passar o tempo inteiro focando em pegar os nobres (como eles estavam fazendo). Nesse mesmo dia eu e o meu marido jogamos novamente com a minha mãe e minha irmã, e eu ganhei - posso dizer que foi uma "senhora coça" rs - usando essa mesma estratégia: focar nas cartas de pontuações altas. Obviamente o marido percebeu que meu modo de jogar era mais válido e passou a usar isso. Desde então só ganhei dele uma vez (o aluno supera o professor, é objetivo né? rs), mas costumamos ter partidas emocionantes!
+A primeira vez que joguei, estava com um grupo em que todos já haviam jogado. Me falaram que o objetivo era ter a maior pontuação, então fui comprando o máximo de cartas possíveis que me davam pontos, sem passar o tempo inteiro focando em pegar os nobres (como eles estavam fazendo). Nesse mesmo dia eu e o meu marido jogamos novamente com a minha mãe e minha irmã, e eu ganhei - posso dizer que foi uma "senhora coça" rs - usando essa mesma estratégia: focar nas cartas de pontuações altas. Obviamente o marido percebeu que meu modo de jogar era mais válido e passou a usar isso. Desde então só ganhei dele uma vez (o aluno supera o mestre, é objetivo né? :sweat_smile:), mas costumamos ter partidas emocionantes!
 
 Como ele é rapidinho e fácil de explicar, acaba indo para a mesa com frequência na minha família, e até entre os grupos de jogos mesmo. Eu, particularmente, gosto bastante - durante muito tempo foi o meu favorito no gênero. Costumava ir bem nele, mas confesso que fui ficando cada vez mais desatenta. Na última vez que joguei perdi, porque deixei passar a chance de receber a visita de um membro da nobreza :princess: (e de ganhar a partida).
 
@@ -58,7 +58,7 @@ Esse jogo é ótimo para iniciar alguém no mundo dos board games. As regras sã
 Sinceramente: não sou muito boa em Ticket to Ride. Talvez por ficar meio "perdida" com o mapa, lendo e relendo minha missão várias vezes e, por receio de não conseguir concluí-las, acabo fazendo caminhos mais curtos (o que não dá tantos pontos). Porém posso dizer que o contrário também acontece: recentemente jogamos com um casal de amigos (iniciantes no mundo dos board games) e no final do jogo peguei uma nova missão, que valia 20 pontos. No entanto era um caminho longo, que dificilmente eu cumpriria àquela altura do campeonato, mas a ganância foi maior, não olhei a quantidade de trem dos outros jogadores, a partida acabou, não concluí, e perdi os 20 pontos! :clap::point_right::angry:
 
 De qualquer forma, é sucesso absoluto! E tem que pensar, viu? Parece inofensivo, mas até para quem tem experiência ele força um pouquinho a mente, principalmente por conta da mistura de trens que acontece no meio do jogo, algo que não tem como prever.
-Na última vez que jogamos, por exemplo, estávamos em 3 (eu, marido e mãe) e eu e o Israel estávamos em uma disputa direta pelos mesmos lugares, abrimos mão, inclusive, de caminhos mais longos para garantir espaço. Foi uma situação que eu não esperava, acabei "desperdiçando" alguns trens, pois tive que abandoná-los e deixei de cumprir uma missão, porque, adivinhe só: faltou trem rs - falei que sou um desastre nesse jogo. :thumbsdown:
+Na última vez que jogamos, por exemplo, estávamos em 3 (eu, marido e mãe) e eu e o Israel estávamos em uma disputa direta pelos mesmos lugares, abrimos mão, inclusive, de caminhos mais longos para garantir espaço. Foi uma situação que eu não esperava, acabei "desperdiçando" alguns trens, pois tive que abandoná-los e deixei de cumprir uma missão, porque, adivinhe só: faltou trem! - falei que sou um desastre nesse jogo. :thumbsdown:
 
 Mas em geral ele é bem divertido e sempre deixa aquela vontade de jogar de novo e fazer tudo diferente!
 
