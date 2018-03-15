@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.biancalessa.com.br/post/2018-03-15-4-jogos-de-tabuleiro-para-jogar-com-a-fam%C3%ADlia/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.biancalessa.com.br/post/2018-03-07-3-dicas-para-criar-uma-rotina-de-leitura/</loc>
     <lastmod>2018-03-07T00:00:00+00:00</lastmod>
   </url>
@@ -50,7 +55,13 @@
   
   <url>
     <loc>http://www.biancalessa.com.br/</loc>
-    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.biancalessa.com.br/tags/boardgame/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -84,6 +95,12 @@
   </url>
   
   <url>
+    <loc>http://www.biancalessa.com.br/tags/jogos/</loc>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.biancalessa.com.br/tags/livros/</loc>
     <lastmod>2018-03-07T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -97,7 +114,7 @@
   
   <url>
     <loc>http://www.biancalessa.com.br/post/</loc>
-    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
+    <lastmod>2018-03-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
