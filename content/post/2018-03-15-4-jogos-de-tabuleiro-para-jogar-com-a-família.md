@@ -27,7 +27,7 @@ As regras são simples, ele é bonito, dá para ter interação - vai depender d
 
 
 No mês de janeiro passei alguns dias na casa dos meus pais e houve uma "invasão" de carrascos por lá. Pesquisamos o que fazer para tentar afastá-los e a resposta foi: aprenda a conviver com eles!
-Bom, aprendemos: Era só anoitecer que nos trancávamos no quarto e ficávamos jogando. Então todo mundo participava, até a Cacau :frog: :smiley_cat: :woman: :woman: :girl:.
+Bom, aprendemos: era só anoitecer que nos trancávamos no quarto e ficávamos jogando. Então todo mundo participava, até a Cacau :frog: :smiley_cat: :woman: :woman: :girl:.
 
 Esse é um jogo que quanto mais se joga, mais viciante e competitivo fica. Não importa se você tem ou não background no mundo dos board games, uma coisa é certa: é um ótimo casual e você irá se divertir!
 
