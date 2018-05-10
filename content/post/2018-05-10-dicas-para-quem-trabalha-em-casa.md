@@ -37,7 +37,8 @@ Obviamente a minha rotina é peculiar, pois eu faço  praticamente tudo por cont
 
 **Disciplina.**
 
-E não ache que você é incapaz de ser uma pessoa disciplinada
+E não ache que você é incapaz de ser uma pessoa disciplinada.
+
 A questão da disciplina e do foco é algo que não vem do dia para noite, principalmente se você era acostumado a passar 8 horas por dia fora de casa. Porém, com persistência, ela chega! Existem milhares de maneiras possíveis para se organizar e manter uma boa produtividade sendo estudante EAD e home office. A que funcionou para mim foi não criar horários fixos. Não gosto muito de rotina, então o que eu determino é o tempo que irei dedicar diariamente para cada tarefa. Atualmente está mais ou menos assim:
 
 Inglês - no mínimo 2 horas
