@@ -10,7 +10,7 @@ Pensando em como nos divertimos, resolvi listar aqui alguns dos jogos que mais f
 
 **1 - Potion Explosion**
 
-{{< figure src="/img/steamkindle.jpg" width="400" >}}
+{{< figure src="/img/pocaojpg.jpg" width="400" >}}
 Foto da editora
 
 Esse jogo nós demos de presente para a minha irmã e é o queridinho da casa: todo mundo adora! Quando compramos eu nunca havia jogado, apenas assistido um vídeo de explicação, e ele superou todas as minhas expectativas.
