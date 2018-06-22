@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <copyright>&amp;copy; 2018 | Bianca Lessa | ♥</copyright>
-    <lastBuildDate>Mon, 19 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Jun 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.biancalessa.com.br/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Adoção</title>
       <link>http://www.biancalessa.com.br/tags/ado%C3%A7%C3%A3o/</link>
-      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.biancalessa.com.br/tags/ado%C3%A7%C3%A3o/</guid>
       <description></description>
@@ -33,7 +33,7 @@
     <item>
       <title>Cachorros</title>
       <link>http://www.biancalessa.com.br/tags/cachorros/</link>
-      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.biancalessa.com.br/tags/cachorros/</guid>
       <description></description>
@@ -49,9 +49,18 @@
     </item>
     
     <item>
+      <title>Entrevistas</title>
+      <link>http://www.biancalessa.com.br/tags/entrevistas/</link>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.biancalessa.com.br/tags/entrevistas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Faculdade</title>
       <link>http://www.biancalessa.com.br/tags/faculdade/</link>
-      <pubDate>Thu, 10 May 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.biancalessa.com.br/tags/faculdade/</guid>
       <description></description>
@@ -69,7 +78,7 @@
     <item>
       <title>Gatos</title>
       <link>http://www.biancalessa.com.br/tags/gatos/</link>
-      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.biancalessa.com.br/tags/gatos/</guid>
       <description></description>
@@ -105,7 +114,7 @@
     <item>
       <title>Pets</title>
       <link>http://www.biancalessa.com.br/tags/pets/</link>
-      <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
       
       <guid>http://www.biancalessa.com.br/tags/pets/</guid>
       <description></description>
