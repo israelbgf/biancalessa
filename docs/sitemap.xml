@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.biancalessa.com.br/post/2018-11-19-resenha-um-de-n%C3%B3s-est%C3%A1-mentindo/</loc>
+    <lastmod>2018-11-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.biancalessa.com.br/post/2018-11-12-resenha-a-%C3%BAltima-mensagem-de-hiroshima/</loc>
     <lastmod>2018-11-12T00:00:00+00:00</lastmod>
   </url>
@@ -75,7 +80,7 @@
   
   <url>
     <loc>http://www.biancalessa.com.br/</loc>
-    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -140,7 +145,7 @@
   
   <url>
     <loc>http://www.biancalessa.com.br/tags/livros/</loc>
-    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -152,13 +157,19 @@
   
   <url>
     <loc>http://www.biancalessa.com.br/post/</loc>
-    <lastmod>2018-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2018-11-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.biancalessa.com.br/tags/reflex%C3%B5es/</loc>
     <lastmod>2018-05-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.biancalessa.com.br/tags/resenha/</loc>
+    <lastmod>2018-11-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -171,6 +182,12 @@
   <url>
     <loc>http://www.biancalessa.com.br/tags/</loc>
     <lastmod>2018-06-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.biancalessa.com.br/tags/um-de-n%C3%B3s-est%C3%A1-mentindo/</loc>
+    <lastmod>2018-11-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
