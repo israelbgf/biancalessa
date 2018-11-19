@@ -17,7 +17,7 @@ No dia 06 de agosto de 1945 os Estados Unidos da América lançaram uma bomba at
 
 A história do Sr. Takashi Morita transmite uma emoção que é difícil até de explicar. Sempre gostei desse estilo de leitura, no ultimo post que escrevi indicando alguns livros, comentei sobre **Depois de Auschwitz**, que conta a história de **Eva Schloss**, sobrevivente do terror do campo de concentração.
 
-Morita estava próximo ao epicentro quando a bomba foi lançada, foi atingido na nuca e acredita que sua farda o salvou. Ele viu o sofrimentos de centenas de pessoas, enquanto tentava ajudá-las. A cada cena descrita por ele, é possível sentir a dor, angústia e medo que todos estavam sentindo no momento, afinal, eles ainda não sabiam que se tratava de uma bomba atômica.
+Morita estava próximo ao epicentro quando a bomba foi lançada, foi atingido na nuca e acredita que sua farda o salvou. Ele viu o sofrimento de centenas de pessoas, enquanto tentava ajudá-las. A cada cena descrita por ele, é possível sentir a dor, angústia e medo que todos estavam sentindo no momento, afinal, eles ainda não sabiam que se tratava de uma bomba atômica.
 
 "Hoje, aos 93 anos, às vezes chego a me perguntar se tudo aconteceu de verdade, mas as marcas que trago na memória, os problemas de saúde e as imagens da cidade totalmente devastada me comprovam que foi tudo real. Infelizmente, não foi apenas um pesadelo" (pg 53)
 
