@@ -27,7 +27,7 @@ No entanto, ainda acharia melhor se fosse em terceira pessoa.
 
 Um dos problemas do livro é o fato de alguns personagens não serem tão explorados quanto poderiam, principalmente os que possuem questões interessantes a serem aprofundadas. Dentre o quarteto mesmo, Addy e Cooper ficam meio de lado nesse quesito.
 
-A história também possui bastantes clichês de séries adolescentes, o que não atrapalha o enredo, mas também não o destaca, fazendo com que seja "só mais um" nas estantes das livrarias.
+A história também possui bastante clichês de séries adolescentes, o que não atrapalha o enredo, mas também não o destaca, fazendo com que seja "só mais um" nas estantes das livrarias.
 
 No fim das contas, o saldo para mim foi positivo, serviu como uma boa distração. Recomendo a leitura, caso você não tenha outra na fila, porém não espere uma grande história de investigação criminal, daquelas que instiga até o final, porque isso não acontece.
 O que vemos na verdade é uma trama que se desenrola lentamente, apresentando algumas informações irrelevantes para o plot principal, mas que, por explorar bem as situações, colocando - as em diferentes pontos de vista, consegue se manter envolvente (ao menos para mim).
